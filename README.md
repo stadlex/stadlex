@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Alex. I'm a PhD student at Johannes Kepler University Linz, Austria, and a novice to GitHub. This repo is mainly used to make code for my dissertation projects publicly available and to make version control easier. 🎓😊
+
+
+
 <!--
 **stadlex/stadlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
