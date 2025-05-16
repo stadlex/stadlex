@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Alex. I'm a PhD student at Johannes Kepler University Linz, Austria, and a novice to GitHub. This repo is mainly used to make code for my dissertation projects publicly available and to make version control easier. 🎓😊
+My name is Alex. I'm a PhD student at Johannes Kepler University Linz, Austria, and a novice to GitHub. This profile is mainly used to make code for my dissertation projects publicly available and to make version control easier. 🎓😊
 
 
 
